@@ -32,7 +32,7 @@ The project focuses on **two major computational problems** in rocket propulsion
 - Flow conditions:  
   - Inlet Pressure = 40 bar  
   - Inlet Temperature = 2800 K  
-  - Isothermal wall = 300 K  
+  - Isothermal wall temperature = 300 K  
 - CFD++ simulation conducted under **axisymmetric, viscous, compressible, steady-state** flow.
 - Python code developed to solve the **quasi-1D isentropic flow relation**:
 
